@@ -298,7 +298,7 @@ public class ArrayQueueDemo {
 
 > > front索引指向队列的第一个元素，rear索引指向最后一个元素的后一个位置，且初始值均为0，当**front==rear**时，表示队列空，当**（rear+1）% maxSize==front**时，表示队列满，队列中有效的数据个数为**（rear+maxSize-front）%maxSize**,如图：
 
-![queue2](/Volumes/Samsung_T5/notes/dataStructure/queue2.png)
+![queue2](https://github.com/4uncle/Basic-Algorithms-and-Programming-Languages/blob/master/dataStructure/queue2.png)
 
  #### 环形队列:
 
@@ -475,9 +475,9 @@ public class CircleQueueDemo {
 >
 > 
 
-![linked](/Volumes/Samsung_T5/notes/dataStructure/linked1.png)
+![linked](https://github.com/4uncle/Basic-Algorithms-and-Programming-Languages/blob/master/dataStructure/linked1.png)
 
-![linked](/Volumes/Samsung_T5/notes/dataStructure/linked2.png)
+![linked](https://github.com/4uncle/Basic-Algorithms-and-Programming-Languages/blob/master/dataStructure/linked2.png)
 
 #### 节点：
 
